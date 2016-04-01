@@ -8,3 +8,4 @@ Written using HTML, CSS, JavaScript, and PHP.
 
 Dynamic columns and window sizing written using pure JS in order to gain an insight into the inner-workings of JS libraries.
 
+Contact form e-mail is implemented in PHP.
