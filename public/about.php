@@ -58,7 +58,7 @@
             <hr />
 
             <div class="bodyDiv">
-                <p class="bodyText">Pi Alpha Phi is the oldest active Asian American Interest fraternity. Founded at the University of California, Berkeley in 1929, there are currently 22 active chapters across the nation. The goal of Pi Alpha Phi, Omicron Chapter at the University of California, Santa Barara is to continue the everlasting tradition of excellence and brotherhood that we have inherited from our charters and the founding fathers before them. With our pillars as our guide, and brotherhood as our source of strength, we will continue to embrace the visions and traditions of Pi Alpha Phi.</p>
+                <p class="bodyText">Pi Alpha Phi is the oldest active Asian American Interest fraternity. Founded at the University of California, Berkeley in 1929, there are currently 22 active chapters across the nation. The goal of our chapter at the University of California, Santa Barara is to continue the everlasting tradition of excellence and brotherhood that we have inherited from our charters and the founding fathers before them. With our pillars as our guide, and brotherhood as our source of strength, we will continue to embrace the visions and traditions of Pi Alpha Phi.</p>
                 <hr />
                 <div class="container-small">
                     <h3>Brotherhood</h3>
