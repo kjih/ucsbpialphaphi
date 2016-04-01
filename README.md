@@ -1,6 +1,6 @@
 #UCSB Pi Alpha Phi Website
 
-###ucsbpialphaphi.com
+###http://ucsbpialphaphi.com
 
 Website for UCSB Pi Alpha Phi, Omicron Chapter.
 
