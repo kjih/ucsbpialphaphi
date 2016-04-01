@@ -4,11 +4,11 @@
 <html>
 
 <head>
-    <title>UCSB Pi Alpha Phi - Contact</title>
-
     <meta charset="utf-8" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>UCSB Pi Alpha Phi - Contact</title>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
