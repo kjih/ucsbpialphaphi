@@ -1,7 +1,8 @@
-// windowsize.js
-//
-// Set container width depending on window width
-// and display regular or mobile menu.
+/*
+ * windowsize.js
+ *
+ * Set container widths depending on window width
+ * and display regular or mobile menu
 
 // set_size()
 // Sets the appropriate div sizes
@@ -9,6 +10,8 @@ function set_size() {
     var containerWidth;
     var winWidth = $(window).width();
 
+    // Determine main container width
+    // Thresholds based off of Bootstrap thresholds
     if (winWidth >= 992) {
         containerWidth = 970;
     } else if (winWidth >= 768) {
