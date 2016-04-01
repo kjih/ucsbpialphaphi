@@ -3,6 +3,7 @@
  *
  * Set container widths depending on window width
  * and display regular or mobile menu
+ */
 
 // set_size()
 // Sets the appropriate div sizes
