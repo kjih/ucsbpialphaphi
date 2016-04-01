@@ -1,11 +1,10 @@
+<?php
 /*
  * send.php
  *
  * Performs verifications for contact form
  * and sends email to ucsbpaphiwebmaster@gmail.com.
  */
-
-<?php
 
     $errorCount = 0;
 
