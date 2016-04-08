@@ -246,13 +246,13 @@ td {
 .bodyText {
     color: #bfbfbf;
     word-break: normal;
-    font-size: 14px;
+    /*font-size: 14px;*/
 }
 
 .bodyText-left {
     color: #bfbfbf;
     word-break: normal;
-    font-size: 14px;
+    /*font-size: 14px;*/
     text-align: left;
 }
 

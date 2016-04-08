@@ -103,7 +103,7 @@
                         </tr>
                         <tr>
                             <td class="td-long">Historian</td>
-                            <td class="td-right"><span class="color-text"></span></td>
+                            <td class="td-right"><span class="color-text">Franklin</span></td>
                         </tr>
                         <tr>
                             <td class="td-long">Philanthropy Chair</td>
