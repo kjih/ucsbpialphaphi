@@ -31,9 +31,9 @@ function set_size() {
     }
 
     // Shrink text size if width <= 375 (iPhone 6 portrait width)
-    if (winWidth <= 475) {
-        $(".bodyText").css("font-size", "12px");
-        $(".bodyText-left").css("font-size", "12px");
+    if (winWidth <= 375) {
+        $(".bodyText").css("font-size", "8px");
+        $(".bodyText-left").css("font-size", "8px");
     } else {
         $(".bodyText").css("font-size", "14px");
         $(".bodyText-left").css("font-size", "14px");
