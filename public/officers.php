@@ -99,19 +99,19 @@
                         </tr>
                         <tr>
                             <td class="td-long">Fundraising Chair</td>
-                            <td class="td-right"><span class="color-text"></span></td>
+                            <td class="td-right"><span class="color-text">Harrison Zhong</span></td>
                         </tr>
                         <tr>
                             <td class="td-long">Historian</td>
-                            <td class="td-right"><span class="color-text">Franklin</span></td>
+                            <td class="td-right"><span class="color-text">Franklin Xie</span></td>
                         </tr>
                         <tr>
                             <td class="td-long">Philanthropy Chair</td>
-                            <td class="td-right"><span class="color-text"></span></td>
+                            <td class="td-right"><span class="color-text">Benjamin On</span></td>
                         </tr>
                         <tr>
                             <td class="td-long">Rush Chair</td>
-                            <td class="td-right"><span class="color-text"></span></td>
+                            <td class="td-right"><span class="color-text">Darren Ly &amp; Jason Yu</span></td>
                         </tr>
                     </table>
                 </div>
