@@ -67,7 +67,7 @@
                         </tr>
                         <tr>
                             <td class="td-long">Vice President at Large</td>
-                            <td class="td-right"><span class="color-text">Joshua Villaruz</span></td>
+                            <td class="td-right"><span class="color-text">Sungin Kim</span></td>
                         </tr>
                         <tr>
                             <td class="td-long">Vice President Internal</td>
