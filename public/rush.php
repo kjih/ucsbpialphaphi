@@ -64,7 +64,7 @@
                 <h3>Spring 2015 Rush Schedule</h3>
 
                 <div class="container-xs-left">
-                    <p class="bodyText-left">Wednesday 4/1 - <strong>Snapbacks &amp; Tattoos w/ &Sigma;&Kappa;&Chi;</strong><br />"Snapbacks and tattoos. Nice whips, fly chicks. All that 'cause cash rules. Show off your hats. Show off your tatts." Join us and the alluring women of Sigma Kappa Chi.<br />Time: 8PM</p>
+                    <p class="bodyText-left">Wednesday 9/21 - <strong>Don't Do Drugs Just Take Some &Pi;&Alpha;&Phi;</strong><br />Get to know PAPhi (Pronounced "P-A-Phi") and what we're all about.<br />Location: Pi Alpha Phi House<br />Time: 8PM</p>
                     <p class="bodyText-left">Thursday 4/2 - <strong>&Pi;&Alpha;&Phi; Lil' Sis BBQ</strong><br />Come enjoy the famous PAPhi Chicken with our lovely Lil' Sis's! Arrive EARLY if you want to eat.<br />Time: 8PM</p>
                     <p class="bodyText-left">Saturday 4/4 - <strong>Wet N' Wild</strong><br />Join the brothers of Pi Alpha Phi at this Deltopia day rager full of music, dancing, and fun. Beach attire recommended. Warning: You may get wet.<br />Time: 1PM</p>
                     <p class="bodyText-left">Sunday 4/5 - <strong>Adopt-A-Block Philanthropy</strong><br />Work hard, play hard. Our fraternity is founded on the concept of helping others. Help us keep the streets of IV clean after Deltopia.<br />Time: 10AM</p>
