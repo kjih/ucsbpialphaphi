@@ -80,8 +80,10 @@
 
                 </div>
                
-                <img src="img/frontrush.jpg" alt="front" width="750" height="500">
-                <img src="img/backrush.jpg" alt="back" width="750" height="500">
+                <div class="container-cs-center rush">
+                    <img src="img/frontrush.jpg" alt="front" width="750" height="500">
+                    <img src="img/backrush.jpg" alt="back" width="750" height="500">
+                </div>
 
             </div>
 
