@@ -68,7 +68,7 @@
                     <p class="bodyText-left">Thursday 9/22 - <strong>T.G.I.F. BBQ (feat &Chi;&Delta;&Theta;)</strong><br />(Thank God It's Free) The best things in life are free.. Come out to our cook out (free of charge), &amp; get to know some of our best friends; the lovely ladies of Chi Delta Theta.<br />Location: 6542 Del Playa<br/>Time: 8PM</p>
                     <p class="bodyText-left">Friday 9/23 - <strong>Squad Out (OPEN PARTY)</strong><br />Work hard, play hard. The brothers of Pi Alpha Phi welcome all to start the year off right.<br />Location: Pi Alpha Phi House<br />Time: 9PM</p>
                     <p class="bodyText-left">Saturday 4/5 - <strong>Beach Knockin' (feat. &Sigma;&Kappa;&Chi;)</strong><br />If you've never Day Raged, do you even go here? Join the brothers of Pi Alpha Phi and the stunning sisters Sigma Kappa Chi for a day full of music &amp; dancing.<br />Location: Pi Alpha Phi House<br />Time: 4PM</p>
-                    <p class="bodyText-left"><strong>Pi Alpha Phi House: 6729 Sabado Tarde Rd.</strong></p>
+                    <p class="bodyText-left"><strong>Pi Alpha Phi House: 6729 Sabado Tarde Rd.</strong></p><br /><br />
                 </div>
 
                 <div class="container-xs-right">
@@ -79,7 +79,12 @@
                     <p class="bodyText-left">For more information, questions, or concerns contact:<br /><br />Angel Esquivel: (951) 241-4683<br />Franklin Xie: (626) 696-9857</p>
 
                 </div>
+               
+                <img src="img/frontrush.jpg" alt="front" width="750" height="500">
+                <img src="img/backrush.jpg" alt="back" width="750" height="500">
+
             </div>
+
 
             <div class="spacerDiv"></div>
 
