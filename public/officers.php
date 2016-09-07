@@ -68,6 +68,10 @@
                             <td class="td-right"><span class="color-text">Angel Esquivel</span></td>
                         </tr>
                         <tr>
+                            <td class="td-long"></td>
+                            <td class="td-right"><span class="color-text">(president@pialphaphi.com)</span></td>
+                        </tr>
+                        <tr>
                             <td class="td-long">Vice President at Large</td>
                             <td class="td-right"><span class="color-text">Sungin Kim</span></td>
                         </tr>
