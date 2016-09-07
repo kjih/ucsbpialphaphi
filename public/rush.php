@@ -59,7 +59,7 @@
 
             <div class="bodyDiv">
                 <p class="bodyText">Rush is where it all begins. "Rush" is a time for you to meet the brothers of Pi Alpha Phi, learn about our storied history, and have a glimpse into Greek life. During our rush week, you will meet a variety of people including the brothers, our lovely PAPhi Lil' Sisses, other affiliated members of the Greek community, and prospective rushees just like yourself. Throughout the week, you will discover what Pi Alpha Phi has to offer you and experience our brotherhood as if it was your own.</p>
-                <p class="bodyText">Our next recruiting season will be in <strong>Fall 2016</strong>.</p>
+                <!--<p class="bodyText">Our next recruiting season will be in <strong>Fall 2016</strong>.</p>-->
                 <hr />
                 <h3>Spring 2015 Rush Schedule</h3>
 
@@ -68,6 +68,7 @@
                     <p class="bodyText-left">Thursday 9/22 - <strong>T.G.I.F. BBQ (feat &Chi;&Delta;&Theta;)</strong><br />(Thank God It's Free) The best things in life are free.. Come out to our cook out (free of charge), &amp; get to know some of our best friends; the lovely ladies of Chi Delta Theta.<br />Location: 6542 Del Playa<br/>Time: 8PM</p>
                     <p class="bodyText-left">Friday 9/23 - <strong>Squad Out (OPEN PARTY)</strong><br />Work hard, play hard. The brothers of Pi Alpha Phi welcome all to start the year off right.<br />Location: Pi Alpha Phi House<br />Time: 9PM</p>
                     <p class="bodyText-left">Saturday 4/5 - <strong>Beach Knckin' (feat. &Sigma;&Kappa;&Chi;)</strong><br />If you've never Day Raged, do you even go here? Join the brothers of Pi Alpha Phi and the stunning sisters Sigma Kappa Chi for a day full of music &amp; dancing.<br />Location: Pi Alpha Phi House<br />Time: 4PM</p>
+                    <p class="bodyText-left"><strong>Pi Alpha Phi House: 6729 Sabado Tarde Rd.</strong></p>
                 </div>
 
                 <div class="container-xs-right">
@@ -75,7 +76,7 @@
                     <p class="bodyText-left">Thursday 9/29- <strong>PAPhi Chicken Night (feat. &Pi;&Alpha;&Phi; Lil Sis)</strong><br />Come meet the charming women who complete the Pi Alpha Phi Family, our Lil Sises, while the brothers of Pi Alpha Phi prepare our infamous PAPhi Chicken.<br />Location: Pi Alpha Phi House<br />Time: 8PM</p>
                     <p class="bodyText-left">Friday 9/30 - <strong>Flag Football</strong><br />Show off your skills &amp; challenge the brothers of Pi Alpha Phi in a game of flag (for your safety) Football. (Meet at the PAPhi House)<br />Location: Pi Alpha Phi House<br />Time: 5PM</p>
                     <p class="bodyText-left">Saturday 10/1 - <strong>*EXCLUSIVE EVENT*</strong><br />(Invite only) Be ready for the most epic party you probably won't remember...
-                    <p class="bodyText-left">Pi Alpha Phi House: 6729 Sabado Tarde Rd.<br /><br />For more information, questions, or concerns contact:<br /><br />Angel Esquivel: (951) 241-4683<br />Phu Nguyen: (916) 897-6903</p>
+                    <p class="bodyText-left">For more information, questions, or concerns contact:<br /><br />Angel Esquivel: (951) 241-4683<br />Franklin Xie: (626) 696-9857</p>
 
                 </div>
             </div>
