@@ -116,7 +116,7 @@
                             <td class="td-right"><span class="color-text">Franklin Xie</span></td>
                         </tr>
                         <tr>
-                            <td class="td-long">Web Master</td>
+                            <td class="td-long">Webmaster</td>
                             <td class="td-right"><span class="color-text">Sungin Kim</span></td>
                         </tr>
                     </table>
