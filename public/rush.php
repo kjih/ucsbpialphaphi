@@ -61,7 +61,7 @@
                 <p class="bodyText">Rush is where it all begins. "Rush" is a time for you to meet the brothers of Pi Alpha Phi, learn about our storied history, and have a glimpse into Greek life. During our rush week, you will meet a variety of people including the brothers, our lovely PAPhi Lil' Sisses, other affiliated members of the Greek community, and prospective rushees just like yourself. Throughout the week, you will discover what Pi Alpha Phi has to offer you and experience our brotherhood as if it was your own.</p>
                 <!--<p class="bodyText">Our next recruiting season will be in <strong>Fall 2016</strong>.</p>-->
                 <hr />
-                <h3>Spring 2015 Rush Schedule</h3>
+                <h3>Fall 2016 Rush Schedule</h3>
 
                 <div class="container-xs-left">
                     <p class="bodyText-left">Wednesday 9/21 - <strong>Don't Do Drugs Just Take Some &Pi;&Alpha;&Phi;</strong><br />Get to know PAPhi (Pronounced "P-A-Phi") and what we're all about.<br />Location: Pi Alpha Phi House<br />Time: 8PM</p>
