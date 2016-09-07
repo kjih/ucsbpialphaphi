@@ -48,8 +48,10 @@
         if ($error) {
             $result = '<div class="resultDiv"><strong>' . $error . '</strong></div>';
         } else {
-            if (mail("ucsbpaphiwebmaster@gmail.com", $subject,
-                    "Name: " . $_POST['name'] . "\n\nEmail: " . $_POST['email'] . "\n\nMessage: " . $_POST['message'])) {
+            $to = "ucsbpialphaphiwebmaster@gmail.com";
+            $message = "Name: " . $_POST['name'] . "\n\nEmail: " . $_POST['email'] . "\n\nMessage: " . $_POST['message'];
+            $headers = "From: " . $_POST['email'];
+            if (mail($to, $subject, $message, $headers)) {
                 $_POST = array();
                 $result = '<div class="resultDiv"><strong>Your message has been sent.</strong></div>';
             } else {
