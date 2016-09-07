@@ -33,6 +33,7 @@
                     <li><a href=".">Home</a></li>
                     <li><a href="about">About</a></li>
                     <li><a href="officers">Officers</a></li>
+                    <li><a href="actives">Actives</a></li>
                     <li><a href="rush">Rush</a></li>
                     <li><a href="contact">Contact</a></li>
                 </ul>
@@ -46,6 +47,7 @@
                 </ul>
                 <br />
                 <ul>
+                    <li><a href="actives">Actives</a></li>
                     <li><a href="rush">Rush</a></li>
                     <li><a href="contact">Contact</a></li>
                 </ul>
