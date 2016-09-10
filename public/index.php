@@ -15,6 +15,9 @@
 </head>
 
 <body>
+    <audio controls autoplay>
+        <source src="music/dayday.mp3" type="audio/mpeg">
+        </audio>
 
     <div class="container">
         <div class="mainWrapper">
