@@ -70,7 +70,6 @@
                     <p class="bodyText">#96 Jay Heo</p>
                     <h3>Rho &Rho;</h3>
                     <p class="bodyText">#98 Christopher Nguyen</p>
-                    <p class="bodyText">#99 Darren Ly</p>
                     <h3>Sigma &Sigma;</h3>
                     <p class="bodyText">#101 Lanceton Ung</p>
                     <p class="bodyText">#102 Raymond Yang</p>
