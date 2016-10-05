@@ -1,6 +1,5 @@
 <!doctype html>
 <html>
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -78,7 +77,6 @@
                     <p class="bodyText">#104 Jason Yu</p>
                     <p class="bodyText">#106 Kevin Sue</p>
                     <h3>Tau &Tau;</h3>
-                    <p class="bodyText">#107 Sungin Kim</p>
                     <p class="bodyText">#108 Charles Gu</p>
                     <p class="bodyText">#109 William Lee</p>
                     <p class="bodyText">#110 Franklin Xie</p>
